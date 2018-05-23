@@ -11,7 +11,7 @@ html {
 .menu {
 	height: 299px;
 	width: 1014px;
-	border: 3px solid #8B008B;
+	border: 3px solid darkmagenta;
 	background-image: url(../picture/bouquet/bouquet_of_chocolates.jpg);
 	
 	background-size: 1014px 299px;
@@ -20,16 +20,16 @@ html {
 
 button {
 	font-size: 20px;
-	color: #8B008B;
-	background-color: #FFC0CB;
-	border: 3px solid #8B008B;
+	color: darkmagenta;
+	background-color: pink;
+	border: 3px solid darkmagenta;
 	border-radius: 40px;
 	outline: none;
 }
 
 button:hover {
-	color: #FFC0CB;
-	border: 3px solid #FFC0CB;
-	background-color: #8B008B;
+	color: pink;
+	border: 3px solid pink;
+	background-color: darkmagenta;
 	cursor: pointer;
 }
