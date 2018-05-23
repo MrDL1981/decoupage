@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+	max-width: 1014px;
+	text-align: center;
+}
+
+
+/* Меню */
+.menu {
+	height: 299px;
+	width: 1014px;
+	border: 3px solid #8B008B;
+	background-image: url(../picture/bouquet/bouquet_of_chocolates.jpg);
+	
+	background-size: 1014px 299px;
+	background-repeat: no-repeat;
+}
+
+button {
+	font-size: 20px;
+	color: #8B008B;
+	background-color: #FFC0CB;
+	border: 3px solid #8B008B;
+	border-radius: 40px;
+	outline: none;
+}
+
+button:hover {
+	color: #FFC0CB;
+	border: 3px solid #FFC0CB;
+	background-color: #8B008B;
+	cursor: pointer;
+}
